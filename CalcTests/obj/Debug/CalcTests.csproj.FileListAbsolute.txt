@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\CalcTests\CalcTests\bin\Debug\CalcTests.dll
+C:\Users\Laptop\Desktop\CalcTests\CalcTests\bin\Debug\CalcTests.pdb
+C:\Users\Laptop\Desktop\CalcTests\CalcTests\bin\Debug\nunit.framework.dll
+C:\Users\Laptop\Desktop\CalcTests\CalcTests\bin\Debug\nunit.framework.xml
+C:\Users\Laptop\Desktop\CalcTests\CalcTests\obj\Debug\CalcTests.dll
+C:\Users\Laptop\Desktop\CalcTests\CalcTests\obj\Debug\CalcTests.pdb
